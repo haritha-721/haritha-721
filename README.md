@@ -18,8 +18,7 @@
 📬 Reach out:
 - 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/uppara-haritha-149021211).
 - 💼 Let's connect on [Twitter](https://twitter.com/https://twitter.com/HarithaUppara).
-- 📧 react out me on [Email](upparaharitha2001@gmail.com)
-
+- 📧 Feel free to get in touch with me at [Email](mailto:upparaharitha2001@gmail.com).
 🚀 Excited to embark on new web adventures and collaborate on innovative projects. Let's make the web a better place, one code snippet at a time!
 
 
