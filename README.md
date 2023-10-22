@@ -16,7 +16,8 @@
 - 🌐 Actively seeking exciting open-source projects and development opportunities.
 
 📬 Reach out:
-- 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+- 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/uppara-haritha-149021211).
+- 💼 Let's connect on [Twitter](https://twitter.com/https://twitter.com/HarithaUppara).
 - 📝 Check out my personal blog at [YourWebsite.com](https://www.yourwebsite.com).
 
 🚀 Excited to embark on new web adventures and collaborate on innovative projects. Let's make the web a better place, one code snippet at a time!
