@@ -1,10 +1,25 @@
 # 💫 About Me:
-👋 Hello there! I'm [Your Name], a passionate web developer on a perpetual quest for knowledge and collaboration. 💻<br><br>
+👋 Hello there! I'm Haritha, a passionate web developer on a perpetual quest for knowledge and collaboration. 💻<br><br>
 🌟 Here's what I'm all about:
 - 🚀 I thrive on continuous learning, always exploring the latest web technologies and design trends.
 - 🌐 My journey in the web development realm has been a rewarding adventure, and I'm excited to see where it leads me next.
 - 👥 I'm a firm believer in the power of teamwork and open-source development. Let's collaborate and build amazing things together! 🤝
 
+🔧 My Toolbox:
+- 🌐 HTML, CSS, JavaScript, and all things web-related are my bread and butter.
+- 🎨 I have a passion for crafting beautiful, user-friendly interfaces.
+- 📈 Experienced with web frameworks like React, Angular, and Vue.js.
+- 🚀 Always exploring back-end technologies, databases, and server-side scripting.
+
+🌟 What I'm up to:
+- 🔍 Currently exploring [Specific Technology or Project].
+- 🌐 Actively seeking exciting open-source projects and development opportunities.
+
+📬 Reach out:
+- 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+- 📝 Check out my personal blog at [YourWebsite.com](https://www.yourwebsite.com).
+
+🚀 Excited to embark on new web adventures and collaborate on innovative projects. Let's make the web a better place, one code snippet at a time!
 
 
 ## 🌐 Socials:
