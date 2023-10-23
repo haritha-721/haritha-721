@@ -7,8 +7,7 @@
 
 🔧 My Toolbox:
 - 🌐 HTML, CSS, JavaScript, and all things web-related are my bread and butter.
-- 🎨 I have a passion for crafting beautiful, user-friendly interfaces.
-<!--- 📈 Experienced with web frameworks like React, Angular, and Vue.js.-->
+- 🎨 I have a passion for crafting beautiful, user-friendly interfaces.<!--- 📈 Experienced with web frameworks like React, Angular, and Vue.js.-->
 - 🚀 Always exploring back-end technologies, databases, and server-side scripting.
 
 🌟 What I'm up to:
